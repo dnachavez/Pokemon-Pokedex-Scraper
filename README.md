@@ -76,7 +76,7 @@ You need to have Python 3.7+ installed on your machine. You can download it from
 
 1. **Clone the repository:**
 ```
-git clone https://github.com/yourusername/pokemon-pokedex-scraper.git
+git clone https://github.com/dnachavez/pokemon-pokedex-scraper.git
 cd pokemon-pokedex-scraper
 ```
 

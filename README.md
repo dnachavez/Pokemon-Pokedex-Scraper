@@ -90,7 +90,7 @@ pip install requests beautifulsoup4 pandas tqdm
 
 3. **Run the script:**
 ```
-python pokedex_scraper.py
+python app.ipynb
 ```
 
 ## 🎈 Usage <a name="usage"></a>
